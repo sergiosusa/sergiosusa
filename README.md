@@ -1,6 +1,6 @@
 # Hola, soy Sergio Susa 👋
 
-![Sergio Susa](https://github.com/sergiosusa/sergiosusa/raw/master/images/github_header.png)
+![Sergio Susa](https://github.com/sergiosusa/sergiosusa/raw/master/images/header.png)
 
 Soy un **Ingeniero de sistemas y computación** interesado en temas de desarrollo de software y todo lo relacionado con el sector tecnológico.
 
