@@ -54,4 +54,4 @@ Interesado en todo lo relacionado con el sector tecnológico, especialmente:
 
 Actualmente colaboro con el podcast ["Todo esta mal"](http://todoestamal.com/) 🤦.
 
-[🇬🇧](README.md)
+[ENG :gb:](README.md)
