@@ -1,21 +1,21 @@
-# Hi, i'm Sergio Susa 👋
+# Hola, soy Sergio Susa 👋
 
 ![Sergio Susa](https://github.com/sergiosusa/sergiosusa/raw/master/images/header.png)
 
-I'm especially interested in everything related to the technological sector:
+Interesado en todo lo relacionado con el sector tecnológico, especialmente:
 
-- Software development.
-- Continuous improvement and self-learning.
-- Innovation.
-- Automation.
+- Desarrollo de software.
+- Mejora continua y autoaprendizaje.
+- Innovación.
+- Automatización.
 
-## Keep in touch with me through the web 🌍
+## Mantente en contacto conmigo a través de la web 🌍
 
-### Personal projects
-- [🖋 Personal Blog](https://sergiosusa.com/)
+### Proyectos personales
+- [🖋 Blog personal](https://sergiosusa.com/)
 - [🎙 ¿Qué me estás container? (Podcast)](https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html)
 
-### Social networks
+### Redes sociales
 
 <p align="left">
     <a href="https://www.facebook.com/sergiosusa" target="_blank" rel="noreferrer">
@@ -52,6 +52,6 @@ I'm especially interested in everything related to the technological sector:
     </a>
 </p>
 
-I am currently collaborating with the podcast ["Todo esta mal"](http://todoestamal.com/) 🤦.
+Actualmente colaboro con el podcast ["Todo esta mal"](http://todoestamal.com/) 🤦.
 
-[Spanish Version 🇪🇸](README_ES.md)
+[🇬🇧](README.md)
