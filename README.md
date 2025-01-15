@@ -12,8 +12,8 @@ I'm especially interested in everything related to the technological sector:
 ## Keep in touch with me through the web 🌍
 
 ### Personal projects
-- [🖋 Personal Blog](https://sergiosusa.com/)
-- [🎙 ¿Qué me estás container? (Podcast)](https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html)
+- <a href="https://sergiosusa.com/" target="_blank">🖋 Personal Blog</a>
+- <a href="https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html" target="_blank">🎙 ¿Qué me estás container? (Podcast)</a>
 
 ### Social networks
 
