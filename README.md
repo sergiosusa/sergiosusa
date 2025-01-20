@@ -52,6 +52,4 @@ I'm especially interested in everything related to the technological sector:
     </a>
 </p>
 
-I am currently collaborating with the podcast ["Todo está mal"](http://todoestamal.com/) 🤦.
-
 [ES :es:](README_ES.md)
