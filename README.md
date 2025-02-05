@@ -52,7 +52,4 @@ I'm especially interested in everything related to the technological sector:
     </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiosusa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 [ES :es:](README_ES.md)
