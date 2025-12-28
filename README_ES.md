@@ -10,8 +10,8 @@ Me apasiona todo lo relacionado con el sector tecnológico y la creación de sol
 - 🤖 Automatización
 
 ### Proyectos y Contenido
-- [🖋 Blog personal](https://sergiosusa.com/)
-- [🎙 ¿Qué me estás container? (Podcast)](https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html)
+* [🖋 **Blog Personal**](https://sergiosusa.com/blog) – *Artículos técnicos, reflexiones y guías de desarrollo.*
+* [🎙 **¿Qué me estás container?**](https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html) – *Mi podcast sobre tecnología, desarrollo y el ecosistema tech.*
 
 ## Conecta conmigo 🌍
 
@@ -26,5 +26,5 @@ Me apasiona todo lo relacionado con el sector tecnológico y la creación de sol
 </p>
 
 <p align="right">
-  <a href="README_ES.md"><img src="https://img.shields.io/badge/Read_in-English-gb?style=flat-square&logo=github" alt="Versión en Español"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Read_in-English-gb?style=flat-square&logo=github" alt="Versión en Español"></a>
 </p>

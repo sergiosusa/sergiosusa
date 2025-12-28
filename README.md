@@ -11,13 +11,8 @@ I'm especially interested in everything related to the technological sector:
 
 ### My Projects & Content
 
-> [!NOTE]
-> ### [🖋 Personal Blog](https://sergiosusa.com/)
-> Insights and technical articles about software development and innovation.
-
-> [!NOTE]
-> ### [🎙 ¿Qué me estás container?](https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html)
-> My podcast where I discuss everything related to the tech ecosystem.
+* [🖋 **Personal Blog**](https://sergiosusa.com/) – *Insights and technical articles.*
+* [🎙 **¿Qué me estás container?**](https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html) – *My podcast about tech and development.*
 
 ## Connect with me 🌍
 
@@ -30,8 +25,6 @@ I'm especially interested in everything related to the technological sector:
 <a href="https://www.facebook.com/sergiosusa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/sergiosusa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-
-[![Versión en Español](https://flagcdn.com/w40/es.png)](README_ES.md)
 
 <p align="right">
   <a href="README_ES.md"><img src="https://img.shields.io/badge/Leer_en-Español-es?style=flat-square&logo=github" alt="Versión en Español"></a>
