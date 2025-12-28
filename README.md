@@ -10,14 +10,12 @@ I'm especially interested in everything related to the technological sector:
 - 🤖 Automation
 
 ### My Projects & Content
-* [🖋 **Personal Blog**](https://sergiosusa.com/) – *Insights and technical articles.*
-* [🎙 **¿Qué me estás container?**](https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html) – *My podcast about tech and development.*
 
-> [!TIP]
+> [!NOTE]
 > ### [🖋 Personal Blog](https://sergiosusa.com/)
 > Insights and technical articles about software development and innovation.
 
-> [!IMPORTANT]
+> [!NOTE]
 > ### [🎙 ¿Qué me estás container?](https://www.ivoox.com/podcast-que-me-estas-container_sq_f1675569_1.html)
 > My podcast where I discuss everything related to the tech ecosystem.
 
